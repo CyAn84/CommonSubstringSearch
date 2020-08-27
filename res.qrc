@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/view-refresh.png</file>
+        <file>icons/generate.png</file>
+        <file>icons/help.png</file>
+        <file>icons/open.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/search.png</file>
+        <file>icons/searchDoc.png</file>
+    </qresource>
+</RCC>
